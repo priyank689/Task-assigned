@@ -1,0 +1,19 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+  background-image: url("https://img.freepik.com/free-vector/blue-gradient-background-illustration_53876-116696.jpg?semt=ais_hybrid&w=740");
+  background-size: cover;
+}
+footer {
+  margin-top: 513px;
+}
